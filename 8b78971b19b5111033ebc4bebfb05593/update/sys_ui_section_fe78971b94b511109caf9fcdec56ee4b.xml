@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="fe78971b94b511109caf9fcdec56ee4b" sys_domain="global" table="x_723215_copy_ti_0_request" version="3" view="record_x_723215_copy_ti_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rejection_reason</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:40</sys_created_on>
+            <sys_id>b278971bbcb511104d1bac84b4cbd448</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_723215_copy_ti_0_request" sys_domain="global" view="be78971b95b51110e3a191438a584d4b">fe78971b94b511109caf9fcdec56ee4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:40</sys_created_on>
+            <sys_id>be78971baeb5111046797e54326bfb47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_723215_copy_ti_0_request" sys_domain="global" view="be78971b95b51110e3a191438a584d4b">fe78971b94b511109caf9fcdec56ee4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_off_reason</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:40</sys_created_on>
+            <sys_id>3e78971b9fb511107b7d92cbbcbcc447</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_723215_copy_ti_0_request" sys_domain="global" view="be78971b95b51110e3a191438a584d4b">fe78971b94b511109caf9fcdec56ee4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:40</sys_created_on>
+            <sys_id>fa78971b7bb51110209853f50f75f547</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_723215_copy_ti_0_request" sys_domain="global" view="be78971b95b51110e3a191438a584d4b">fe78971b94b511109caf9fcdec56ee4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:40</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:40</sys_created_on>
+            <sys_id>7e78971b34b51110fd95d42198a00c47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_723215_copy_ti_0_request" sys_domain="global" view="be78971b95b51110e3a191438a584d4b">fe78971b94b511109caf9fcdec56ee4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:40</sys_created_on>
+            <sys_id>f678971bc2b51110e40d97f4d2d24047</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_723215_copy_ti_0_request" sys_domain="global" view="be78971b95b51110e3a191438a584d4b">fe78971b94b511109caf9fcdec56ee4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:40</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:40</sys_created_on>
+            <sys_id>7a78971bbfb51110df6f1916aef32347</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_723215_copy_ti_0_request" sys_domain="global" view="be78971b95b51110e3a191438a584d4b">fe78971b94b511109caf9fcdec56ee4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:40</sys_created_on>
+            <sys_id>ba78971b38b51110a7c3d680d4d41e47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_723215_copy_ti_0_request" sys_domain="global" view="be78971b95b51110e3a191438a584d4b">fe78971b94b511109caf9fcdec56ee4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:40</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_723215_copy_ti_0_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe78971b94b511109caf9fcdec56ee4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_723215_copy_ti_0_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+            <sys_update_name>sys_ui_section_fe78971b94b511109caf9fcdec56ee4b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:40</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Record (x_723215_copy_ti_0 )" name="record_x_723215_copy_ti_0">be78971b95b51110e3a191438a584d4b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

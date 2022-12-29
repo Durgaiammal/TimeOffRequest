@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Time Off Requests workspace Config Config">7a78971bb0b511107c377d6c6ef2cb8e</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Projects</name>
+        <optional_parameters/>
+        <order>100</order>
+        <parent_macroponent display_value="Admin List Menu">3678971bccb511104ffd45e6fbbb8f3f</parent_macroponent>
+        <parent_macroponent_composition_element_id>ckhwjjscymaaaaccjjddffiihhhhxeeciioffb</parent_macroponent_composition_element_id>
+        <route_type>projects</route_type>
+        <screen_type display_value="Projects">7e78971b02b511104cbbf9e77c142d3e</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:17</sys_created_on>
+        <sys_id>be78971b38b51110056327ff7775a73e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Projects</sys_name>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_ux_app_route_be78971b38b51110056327ff7775a73e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:17</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=be78971b38b51110056327ff7775a73e"/>
+</record_update>

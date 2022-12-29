@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_datasource_filter">
+    <sys_ux_composite_datasource_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_condition/>
+        <condition table="x_723215_copy_ti_0_request">requested_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe^start_dateONThis year@javascript:gs.beginningOfThisYear()@javascript:gs.endOfThisYear()^EQ<item endquery="false" field="requested_by" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="start_date" goto="false" newquery="false" operator="ON" or="false" value="This year@javascript:gs.beginningOfThisYear()@javascript:gs.endOfThisYear()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <datasource display_value="Time Off Datasource">3278971b82b511104d7eb2aec8d62c36</datasource>
+        <datasource_table>x_723215_copy_ti_0_request</datasource_table>
+        <filter display_value="Time Off All Requests">3678971b62b511109b118f8d6c86c536</filter>
+        <name>All Requests</name>
+        <sys_class_name>sys_ux_composite_datasource_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:18</sys_created_on>
+        <sys_id>7278971bf3b5111081d20c9d6a9b8b36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Requests</sys_name>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_ux_composite_datasource_filter_7278971bf3b5111081d20c9d6a9b8b36</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:18</sys_updated_on>
+    </sys_ux_composite_datasource_filter>
+</record_update>

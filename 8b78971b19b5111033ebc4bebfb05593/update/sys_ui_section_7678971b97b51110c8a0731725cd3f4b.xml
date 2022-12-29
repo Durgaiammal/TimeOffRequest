@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Activity" section_id="7678971b97b51110c8a0731725cd3f4b" sys_domain="global" table="x_723215_copy_ti_0_request" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:20</sys_created_on>
+            <sys_id>3a78971b53b51110c0368ac6fdaf5a47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_723215_copy_ti_0_request" sys_domain="global" view="31f0e20fa9263010c0a065f439e6610b">7678971b97b51110c8a0731725cd3f4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:20</sys_created_on>
+            <sys_id>3678971b2ab51110b5e922a018622b47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_723215_copy_ti_0_request" sys_domain="global" view="31f0e20fa9263010c0a065f439e6610b">7678971b97b51110c8a0731725cd3f4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:20</sys_created_on>
+            <sys_id>7278971bccb5111030f8c13648175247</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="">2e571e8093407c10c64103bb3013070d</sys_ui_formatter>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_723215_copy_ti_0_request" sys_domain="global" view="31f0e20fa9263010c0a065f439e6610b">7678971b97b51110c8a0731725cd3f4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:20</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Activity</caption>
+            <header>false</header>
+            <name>x_723215_copy_ti_0_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7678971b97b51110c8a0731725cd3f4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_723215_copy_ti_0_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+            <sys_update_name>sys_ui_section_7678971b97b51110c8a0731725cd3f4b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">31f0e20fa9263010c0a065f439e6610b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

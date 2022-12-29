@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
+        <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
+        <order/>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:24</sys_created_on>
+        <sys_id>3a78971b5cb511106df0992b1776ed5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_3a78971b5cb511106df0992b1776ed5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:24</sys_updated_on>
+        <target>text_01</target>
+        <ui_rule display_value="Status is Draft">f678971b68b51110ecef4301b4ce7160</ui_rule>
+        <value>{"TextDecorator": { "Type": "Font", "FontName": "now-mobile-icons-cards", "FontColor": "#C5B335", "Value": "e902"}}</value>
+    </sys_sg_ui_rule_action>
+</record_update>

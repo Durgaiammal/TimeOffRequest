@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_layout">
+    <sys_ux_applicability_m2m_layout action="INSERT_OR_UPDATE">
+        <action_layout display_value="Portal Actions">7278971b56b51110434297ee43e08c44</action_layout>
+        <active>true</active>
+        <applicability display_value="Time Off Employee">7678971b0db51110c6a18ca63302bb44</applicability>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_layout</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:23</sys_created_on>
+        <sys_id>3e78971b5ab5111098868bc91136f243</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_layout_3e78971b5ab5111098868bc91136f243</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:23</sys_updated_on>
+    </sys_ux_applicability_m2m_layout>
+</record_update>

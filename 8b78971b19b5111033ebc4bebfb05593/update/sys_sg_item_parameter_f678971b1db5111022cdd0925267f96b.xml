@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Request start_date</name>
+        <parent>f278971b63b51110ea16781c0bbceb69</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:24</sys_created_on>
+        <sys_id>f678971b1db5111022cdd0925267f96b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request start_date</sys_name>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_f678971b1db5111022cdd0925267f96b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:24</sys_updated_on>
+        <type>datetime</type>
+    </sys_sg_item_parameter>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>newViewConfigID</name>
+        <page display_value="Time Off Requests portal Config">3a78571be1b5111036a8729babafa5f8</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>ba78571b61b511102b13ff630824dff6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>newViewConfigID</sys_name>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_ux_page_property_ba78571b61b511102b13ff630824dff6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:19</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_723215_copy_ti_0.3a78571be1b5111036a8729babafa5f8.root.newViewConfigID</unique_name>
+        <value>new_x_723215_copy_ti_0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=ba78571b61b511102b13ff630824dff6"/>
+</record_update>

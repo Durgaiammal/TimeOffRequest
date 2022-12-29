@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_workspace_content">
+    <sys_notification_workspace_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <is_default>false</is_default>
+        <name>TO</name>
+        <notification display_value="Time off Submitted">fa78971b3bb51110c7a6b03e48bcb473</notification>
+        <route display_value="Time Off Request WS">f278971b23b51110fc3b1f44deb9f68c</route>
+        <sys_class_name>sys_notification_workspace_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:25</sys_created_on>
+        <sys_id>b678971b7eb511104bf1f82f00e1f373</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TO</sys_name>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_notification_workspace_content_b678971b7eb511104bf1f82f00e1f373</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:25</sys_updated_on>
+    </sys_notification_workspace_content>
+</record_update>

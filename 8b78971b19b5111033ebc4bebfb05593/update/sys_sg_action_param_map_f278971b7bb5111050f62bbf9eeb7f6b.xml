@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Create time request">fe78971b8eb511107f179506590e196a</button>
+        <item_parameter display_value="Request end_date">7e78971b60b51110c943fcebd7e6bd6a</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:26</sys_created_on>
+        <sys_id>f278971b7bb5111050f62bbf9eeb7f6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7e78971b60b51110c943fcebd7e6bd6a</sys_name>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_f278971b7bb5111050f62bbf9eeb7f6b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:26</sys_updated_on>
+        <ui_parameter display_value="End date">be78971b42b511101f9797349c2c276a</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

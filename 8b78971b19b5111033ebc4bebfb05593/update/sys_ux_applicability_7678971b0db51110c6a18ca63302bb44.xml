@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_723215_copy_ti_0.Time Off Employee</api_name>
+        <description/>
+        <name>Time Off Employee</name>
+        <roles name="x_723215_copy_ti_0.employee">7678971bb0b511101c6f509e15104493</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7678971b0db51110c6a18ca63302bb44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Employee</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_ux_applicability_7678971b0db51110c6a18ca63302bb44</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:30</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

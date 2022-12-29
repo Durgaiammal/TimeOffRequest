@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Record">fa78971b07b51110a3af1b3a6bf71445</macroponent>
+        <name>Log Related List Refresh Request on Record Page</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({api, event, imports}) {
+	const rlName = event.payload.relatedListName;
+	if (rlName) {
+		let rlRequests = {...api.state.relatedListRefreshRequests};
+		rlRequests[rlName] = { timestamp: new Date().getTime() };
+		api.setState('relatedListRefreshRequests', rlRequests);
+	}
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:35</sys_created_on>
+        <sys_id>b678971bdfb51110e893122cc6f1743c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log Related List Refresh Request on Record Page</sys_name>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_ux_client_script_b678971bdfb51110e893122cc6f1743c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:35</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3e78971be9b511104784baf13006b34b" sys_domain="global" table="x_723215_copy_ti_0_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e78971b6cb5111062ca30e5539cd64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_723215_copy_ti_0_request" name="x_723215_copy_ti_0_request" sys_domain="global" view="be78971b95b51110e3a191438a584d4b">3e78971be9b511104784baf13006b34b</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_723215_copy_ti_0_request" sys_domain="global" view="be78971b95b51110e3a191438a584d4b">fe78971b94b511109caf9fcdec56ee4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f678971b86b511101df8d21b4886e04b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_723215_copy_ti_0_request" name="x_723215_copy_ti_0_request" sys_domain="global" view="be78971b95b51110e3a191438a584d4b">3e78971be9b511104784baf13006b34b</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_723215_copy_ti_0_request" sys_domain="global" view="be78971b95b51110e3a191438a584d4b">b678971b82b5111053ea241f6f57344b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_723215_copy_ti_0_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 09:50:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e78971be9b511104784baf13006b34b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_723215_copy_ti_0_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3e78971be9b511104784baf13006b34b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 09:50:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Record (x_723215_copy_ti_0 )" name="record_x_723215_copy_ti_0">be78971b95b51110e3a191438a584d4b</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

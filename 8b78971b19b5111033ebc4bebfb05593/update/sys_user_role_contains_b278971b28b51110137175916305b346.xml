@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
+        <role display_value="x_723215_copy_ti_0.admin" name="x_723215_copy_ti_0.admin">f278971bd9b511100da4f539f33d9093</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:41</sys_created_on>
+        <sys_id>b278971b28b51110137175916305b346</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspace_user.x_723215_copy_ti_0.admin</sys_name>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_user_role_contains_b278971b28b51110137175916305b346</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:41</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

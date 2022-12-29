@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices>null</choices>
+        <description>sys_aw_global_search_config</description>
+        <name>global_search_configurations</name>
+        <page display_value="Time Off Requests workspace Config">ba78571b50b5111060fc7d56c73e9df8</page>
+        <required_translations>[]</required_translations>
+        <route display_value="">null</route>
+        <suffix>null</suffix>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>mike.fry</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>3678571b23b51110903dd533421680f8</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy>null</sys_policy>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_ux_page_property_3678571b23b51110903dd533421680f8</sys_update_name>
+        <sys_updated_by>mike.fry</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:24</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_723215_copy_ti_0.bd0933eba4282010f877142a48a47a35.root.global_search_configurations</unique_name>
+        <value>{"globalSearchViewConfigId":"97a574ea53c0130084acddeeff7b12a6","globalSearchRoute":"search"}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=3678571b23b51110903dd533421680f8"/>
+</record_update>

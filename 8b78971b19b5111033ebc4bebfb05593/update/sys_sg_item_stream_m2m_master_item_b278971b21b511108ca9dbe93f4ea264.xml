@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Time Off Requests Item Stream">f278971b1bb51110b508b59294dc5964</item_stream>
+        <master_item display_value="Time Off Requests Main Item">fe78971b62b5111025edc080b9e07d63</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:34</sys_created_on>
+        <sys_id>b278971b21b511108ca9dbe93f4ea264</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_b278971b21b511108ca9dbe93f4ea264</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:34</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_common_content">
+    <sys_notification_common_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <is_default>false</is_default>
+        <long_text/>
+        <name>Time off Submitted</name>
+        <notification display_value="Time off Submitted">fa78971b3bb51110c7a6b03e48bcb473</notification>
+        <short_text>A time off request was submitted for your approval</short_text>
+        <sys_class_name>sys_notification_common_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:25</sys_created_on>
+        <sys_id>ba78971b31b511103b07435f28636073</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time off Submitted</sys_name>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_notification_common_content_ba78971b31b511103b07435f28636073</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:25</sys_updated_on>
+    </sys_notification_common_content>
+</record_update>

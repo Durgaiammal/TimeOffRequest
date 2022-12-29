@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Time Off Requests workspace Config Config">7a78971bb0b511107c377d6c6ef2cb8e</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="SHN Page">fa78571bc3b51110f772e4db4e83e7f9</macroponent>
+        <macroponent_config>{
+  "label" : "Special Handling Notes",
+  "level" : 1,
+  "variant" : "header-secondary",
+  "confs" : "@data.get_special_handling_notes.output.data.GlideSHN_Query",
+  "table" : "@data.gform.nowRecordFormBlob.table",
+  "sysId" : "@data.gform.nowRecordFormBlob.sysId",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false,
+  "views" : "workspace",
+  "selectedTabIndex" : 0
+}</macroponent_config>
+        <name>SHN Page Default</name>
+        <order>0</order>
+        <parent_macroponent/>
+        <required_translations>[{"message":"Special Handling Notes","comment":""}]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Special Handling Notes">3678971b78b511108195f7259d15d63e</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>be78571b15b511101cc5dcdd3c8a8bf4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SHN Page Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_ux_screen_be78571b15b511101cc5dcdd3c8a8bf4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:23</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=be78571b15b511101cc5dcdd3c8a8bf4"/>
+</record_update>

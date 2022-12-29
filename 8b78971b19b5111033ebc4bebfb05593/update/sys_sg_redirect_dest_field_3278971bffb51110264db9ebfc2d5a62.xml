@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="Time Off Trends to Time Off Requests Nav">be78971ba4b51110444a02e7a6b97a68</button>
+        <button_table/>
+        <constant_value/>
+        <destination_ui_parameter display_value="URL">7278971b7fb511107fccfc162d015b62</destination_ui_parameter>
+        <source_field/>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:50:31</sys_created_on>
+        <sys_id>3278971bffb51110264db9ebfc2d5a62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7278971b7fb511107fccfc162d015b62</sys_name>
+        <sys_package display_value="copy Time of request" source="x_723215_copy_ti_0">8b78971b19b5111033ebc4bebfb05593</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="copy Time of request">8b78971b19b5111033ebc4bebfb05593</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_3278971bffb51110264db9ebfc2d5a62</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:50:31</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>
